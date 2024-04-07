@@ -1,0 +1,24 @@
+.popup__close-icon {
+/* background-color: #30776f; */
+background-image: linear-gradient(#16538c, #e15777);
+    color: #f9f5f6;
+    width: 40px;
+    height: 40px;
+    font-size: x-large;
+    border: 0;
+    /* top: -2px; */
+    right: -1px;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    border-radius: 0px 10px 0px 20px;
+    transition: all 0.3s ease;
+  }
+  
+  .popup__close-icon:hover {
+    /* opacity: 0.6; */
+    background: #e57979;
+    color: rgb(222, 14, 14);
+  }
+  

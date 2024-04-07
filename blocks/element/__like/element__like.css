@@ -1,0 +1,21 @@
+.element__like {
+    /* background-image: url(../../../images/Vector_heart.svg); */
+    width: 50px;
+    /* height: 19px; */
+    /* border: none; */
+    border: 1px solid black;
+    transition: 0.1s ease-in-out;
+    background-color: #30776f;
+    padding: 0;
+    cursor: pointer;
+    /* height: 18px;
+    position: absolute;
+    right: 85px; */
+    color: white;
+    /* top: 10px; */
+  }
+  
+  .element__like:hover {
+    opacity: 0.5;
+  }
+  
